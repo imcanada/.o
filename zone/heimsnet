@@ -1,0 +1,7 @@
+;
+;  HEIMSNET.O BIND ZONE CONFIGURATION
+;
+heimsnet IN NS ns31.cloudns.net.
+heimsnet IN NS ns32.cloudns.net.
+heimsnet IN NS ns33.cloudns.net.
+heimsnet IN NS ns34.cloudns.net.
